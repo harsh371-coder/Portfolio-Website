@@ -191,7 +191,7 @@ fetchGitHub();
 // shows a clickable "email me directly" link instead of forcing a mailto: redirect —
 // auto-navigating to mailto: pops a confusing "pick an app" dialog on systems with no
 // default mail client, so the visitor should choose to click it, not have it forced on them.
-const WEB3FORMS_ACCESS_KEY = 'YOUR-WEB3FORMS-ACCESS-KEY-HERE';
+const WEB3FORMS_ACCESS_KEY = '6cd1505c-e0ea-4fcf-ad88-e49d09e80e58';
 
 function showEmailFallback(prefix) {
   const note = document.getElementById('formNote');
